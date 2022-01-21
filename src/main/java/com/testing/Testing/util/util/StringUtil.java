@@ -1,4 +1,4 @@
-package com.testing.Testing.util;
+package com.testing.Testing.util.util;
 
 public class StringUtil {
     public static String repeat (String str, int times){

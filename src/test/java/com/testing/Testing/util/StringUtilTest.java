@@ -1,9 +1,8 @@
 package com.testing.Testing.util;
 
+import com.testing.Testing.util.util.StringUtil;
 import org.junit.Assert;
 import org.junit.Test;
-
-import java.awt.*;
 
 public class StringUtilTest {
     @Test

@@ -1,5 +1,6 @@
 package com.testing.Testing.util;
 
+import com.testing.Testing.util.util.PasswordUtil;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
