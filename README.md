@@ -1,5 +1,4 @@
 # javaTesting
-#Test interview
-## for QA testing
+## for QA testing, automated test, TDD.
 #Tools:
-## Junit 4, 5 and Mockito
+## Junit 4, 5 and Mockito.
